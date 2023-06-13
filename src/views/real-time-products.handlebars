@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real-Time Products</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <div>
+      <h1>PRODUCTOS Y DEBAJO EL FORMULARIO PARA COMPLETAR</h1>
+      <p>Listado de Productos</p>
+      <div class="texto" id="dynamic-list-products"></div>
+    </div>
+    <div class="container-grid">
+      <form class="container-form" id="products-form">
+        <input type="text" id="title-form" name="title-form" placeholder="Titulo" />
+        <input type="text" id="description-form" name="description-form" placeholder="Descripcion" />
+        <input type="text" id="category-form" name="category-form" placeholder="Categoria" />
+        <input type="text" id="price-form" name="price-form" placeholder="Precio" />
+        <input type="text" id="code-form" name="code-form" placeholder="Codigo" />
+        <input type="text" id="stock-form" name="stock-form" placeholder="Stock" />
+        <button type="submit">Agregar Producto</button>
+      </form>
+      <form class="container-form" id="delete-prod-form">
+        <input type="text" id="delete-button" name="productId" placeholder="Id del Producto" />
+        <button type="submit">Borrar Producto</button>
+      </form>
+    </div>
+    <div class="table-container">
+      <table>
+        <!-- Aquí va el contenido de la tabla -->
+      </table>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="funciones/socket.js"></script>
+</body>
+</html>

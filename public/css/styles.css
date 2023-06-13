@@ -1,0 +1,68 @@
+/* Estilo del contenedor principal */
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  min-height: 100vh;
+  color: rgb(26, 25, 25);
+}
+
+/* Estilo del encabezado */
+.container > div:first-child {
+  margin-bottom: 20px;
+  text-align: center;
+  color: black;
+}
+
+/* Estilo de los formularios */
+.container-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.container-form input[type="text"] {
+  margin: 5px;
+  padding: 5px;
+}
+
+.container-form button[type="submit"] {
+  margin: 5px;
+  padding: 5px 15px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+/* Estilo del listado de productos */
+#dynamic-list-products {
+  margin-top: 20px;
+  color: #e2d8d8;
+}
+
+
+/* Estilo de la tabla */
+.table-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-container th,
+.table-container td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+.table-container th {
+  background-color: #f2f2f2;
+}

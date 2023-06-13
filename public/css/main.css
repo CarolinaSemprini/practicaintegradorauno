@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(144, 144, 144);
+}
+
+
+.listado-msgs {
+  height: 200px;
+  overflow-y: scroll;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background: linear-gradient(to bottom, #FF0000, #222222);
+}
+
+.chat-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.chat-container div {
+  margin-bottom: 10px;
+}
+
+.chat-container p {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.listado-msgs {
+  height: 200px;
+  overflow-y: scroll;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: aliceblue;
+}
+
+.input-msg {
+  width: 100%;
+  padding: 5px;
+}
+
+.alert {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #ff0000;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+/* productos*/
+.listado{
+  color: aliceblue;
+}

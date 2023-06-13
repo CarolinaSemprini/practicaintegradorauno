@@ -1,0 +1,119 @@
+[
+  {
+    "title": "teclado",
+    "description": "Descripción del producto",
+    "code": "12345",
+    "price": 10.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónica"
+  },
+  {
+    "pid": "DO3Tl4c_otFIQo0ZRxp8p",
+    "createdAt": 1686673084294,
+    "status": true,
+    "thumbnails": [],
+    "title": "sdsdsds",
+    "description": "sdsd",
+    "category": "sdsd",
+    "price": "444444",
+    "code": "4444",
+    "stock": "4444444"
+  },
+  {
+    "pid": "vdij_zmyINVGxpWy-EX9O",
+    "createdAt": 1686673592592,
+    "status": true,
+    "thumbnails": [],
+    "title": "sdsds",
+    "description": "sdsd",
+    "category": "sdsd",
+    "price": "333",
+    "code": "33",
+    "stock": "333"
+  },
+  {
+    "pid": "8s5KX4uuNqGxakOe1voRZ",
+    "createdAt": 1686673936185,
+    "status": true,
+    "thumbnails": [],
+    "title": "ssss",
+    "description": "sss",
+    "category": "sss",
+    "price": "3333",
+    "code": "333",
+    "stock": "333"
+  },
+  {
+    "pid": "zLxB2PbyirPiWmlwNLe9b",
+    "createdAt": 1686674018071,
+    "status": true,
+    "thumbnails": [],
+    "title": "hhjhj",
+    "description": "hjhj",
+    "category": "hjh",
+    "price": "555",
+    "code": "35375435343",
+    "stock": "55"
+  },
+  {
+    "pid": "SkkU4Dlpib9agUZMr5ivV",
+    "createdAt": 1686674969233,
+    "status": true,
+    "thumbnails": [],
+    "title": "dfsdfdsf",
+    "description": "sdfsdf",
+    "category": "dsfdsf",
+    "price": "66666",
+    "code": "6666",
+    "stock": "6666"
+  },
+  {
+    "pid": "OPU0m6WGEV-PeMVtW1O-I",
+    "createdAt": 1686678066312,
+    "status": true,
+    "thumbnails": [],
+    "title": "sdsd",
+    "description": "sdsd",
+    "category": "sdsd",
+    "price": "2222",
+    "code": "222",
+    "stock": "222"
+  },
+  {
+    "pid": "SQV5BA10QsCUKO29ylycI",
+    "createdAt": 1686679050940,
+    "status": true,
+    "thumbnails": [],
+    "title": "sdasd",
+    "description": "asdasd",
+    "category": "asdasd",
+    "price": "44444",
+    "code": "444",
+    "stock": "4444"
+  },
+  {
+    "pid": "m9c3IFttF27LGbjHQiosW",
+    "createdAt": 1686682313291,
+    "status": true,
+    "thumbnails": [],
+    "title": "PIZZA",
+    "description": "ADASD",
+    "category": "SASDA",
+    "price": "3333",
+    "code": "875494",
+    "stock": "323"
+  },
+  {
+    "pid": "t3LIRTXSPOi_Xd9DmKozO",
+    "createdAt": 1686693022847,
+    "status": true,
+    "thumbnails": [],
+    "title": "celulares",
+    "description": "celulares",
+    "category": "celulares",
+    "price": "342",
+    "code": "6785",
+    "stock": "5"
+  }
+]
